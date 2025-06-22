@@ -262,17 +262,13 @@ eurasiantimes.com
 opindia.com
 thehindubusinessline.com
 greaterkashmir.com
-europeannewsroom.com
 en.trend.az
 eureporter.co
 euractiv.com
-euobserver.com
 rferl.org
-voxeurop.eu
 electropiknik.cz
 brusselstimes.com
 europeantimes.news
-euronewsweek.co.uk
 brusselsmorning.com
 thelocal.com
 lemonde.fr
@@ -280,7 +276,6 @@ swissinfo.ch
 kyivindependent.com
 themoscowtimes.com
 meduza.io
-dutchnews.nl
 wyborcza.pl
 notesfrompoland.com
 news.err.ee
@@ -288,10 +283,8 @@ yle.fi
 sverigesradio.se
 telex.hu
 ekathimerini.com
-rfa.org
 asiatimes.com
 asianews.network
-newmandala.org
 eastasiaforum.org
 financeasia.com
 theasialive.com
