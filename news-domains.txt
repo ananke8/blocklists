@@ -451,3 +451,6 @@ military.com
 economist.com
 thediplomat.com
 tradingview.com
+fxempire.com
+fxstreet.com
+dailyforex.com
