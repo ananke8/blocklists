@@ -73,6 +73,12 @@ u.today
 cryptopanic.com
 99bitcoins.com
 dailycoinpost.com
+bravenewcoin.com
+coincentral.com
+cryptoninjas.net
+nulltx.com
+bitrates.com
+crypto-reporter.com
 coinpedia.org
 techbullion.com
 cryptopotato.com
@@ -80,4 +86,14 @@ cryptobriefing.com
 cryptonewsz.com
 zycrypto.com
 crypto-news-flash.com
+cryptoemotions.com
 coinspeaker.com
+coinjournal.net
+protos.com
+coinfea.com
+crypto-news.net
+dcforecasts.com
+thecryptonewswire.com
+cryptotimes.io
+cointribute.com
+binance.com
