@@ -114,3 +114,11 @@ digit.in
 androidauthority.com
 pcworld.com
 technewsworld.com
+cio.com
+ausdroid.net
+droid-life.com
+androidheadlines.com
+siliconrepublic.com
+betanews.com
+techweez.com
+eweek.com
