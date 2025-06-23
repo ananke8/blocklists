@@ -128,3 +128,8 @@ inc.com
 au.pcmag.com
 ign.com
 tomsguide.com
+lowyinstitute.org
+defensenews.com
+thediplomat.com
+military.com
+breakingdefense.com
