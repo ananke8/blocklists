@@ -446,3 +446,7 @@ econotimes.com
 rttnews.com
 tradingeconomics.com
 alternet.org
+breakingdefense.com
+military.com
+economist.com
+thediplomat.com
