@@ -422,3 +422,12 @@ financialpost.com
 zeebiz.com
 financialexpress.com
 seekingalpha.com
+dealbreaker.com
+barchart.com
+thestreet.com
+benzinga.com
+money.com
+investopedia.com
+investors.com
+marketbeat.com
+markets.businessinsider.com
