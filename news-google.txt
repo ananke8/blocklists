@@ -1,21 +1,10 @@
-! Google Search Cleanup — iOS-safe (no scriptlets / no :has-text)
+! --- Top stories (extra iOS-safe variants) ---
+google.*##g-scrolling-carousel[aria-label="Top stories"]
+google.*##div[role="region"][aria-label="Top stories"]
+google.*##div[aria-label="Top Stories"]   /* capital-S variant */
+google.*##g-scrolling-carousel[aria-label="Top Stories"]
+google.*##div[aria-label^="Top stor"]     /* prefix match can catch minor variants */
 
-! ==== Top stories / News ====
-google.*##div[aria-label="Top stories"]
-google.*##div[aria-label="In the news"]
+! Sometimes Google nests the module in a region with this controller:
 google.*##div[jscontroller*="m6wItb"][aria-label="Top stories"]
-
-! ==== “What people are saying” / Discussions / Perspectives ====
-google.*##div[aria-label="What people are saying"]
-google.*##div[aria-label="Perspectives"]
-
-! ==== Top videos / Shorts (blocks) ====
-google.*##div[aria-label="Top videos"]
-google.*##div[aria-label="Short videos"]
-
-! ==== Short videos (tab link and inline) ====
-! (Hide the tab link via href match — no :has-text)
-google.*##a[href*="tbm=vids"]  /* hides the “Short videos” tab if present */
-
-! ==== Hide the “News” tab ====
-google.*##a[href*="tbm=nws"]
+google.*##div[jscontroller*="m6wItb"][aria-label="Top Stories"]
