@@ -1,40 +1,8 @@
-! ==== Google Search Cleanup (AdGuard Chrome – dynamic-safe, no AI Overview) ====
-! Removes: Top Stories / News, What People Are Saying / Discussions, Top Videos / Shorts,
-! the News tab, and the Short Videos tab/carousel
+! ==== Search Cleanup in Safari (AdGuard iOS) ====
+! Removes: News and Video Shorts tabs (as applicable) from Google and DuckDuckGo
 
-! ==== Top stories / News ====
-google.*##div[aria-label="Top stories"]
-google.*##g-section-with-header:has-text(/Top stories|In the news|Latest/i)
-google.*##g-scrolling-carousel:has(h2:has-text(/Top stories|In the news|Latest/i))
-google.*##div[jscontroller*="m6wItb"]
-google.*##+js(ra, div[aria-label="Top stories"])
-google.*##+js(ra, g-scrolling-carousel)
-google.*##+js(ra, div[jscontroller*="m6wItb"])
-
-! ==== “What people are saying” / Discussions / Perspectives ====
-google.*##div[aria-label="What people are saying"]
-google.*##div:has(h2:has-text(/What people are saying|Discussions|Perspectives/i))
-google.*##g-section-with-header:has-text(/What people are saying|Discussions|Perspectives/i)
-google.*##div[jscontroller*="m6wItb"]:has(h2:has-text(/What people are saying/i))
-google.*##+js(ra, div[aria-label="What people are saying"])
-google.*##+js(ra, div:has(h2:has-text(/What people are saying|Discussions|Perspectives/i)))
-
-! ==== Top videos / Shorts ====
-google.*##div:has(h2:has-text(/Top videos|Shorts/i))
-google.*##g-scrolling-carousel:has(h2:has-text(/Top videos|Shorts/i))
-google.*##+js(ra, div:has(h2:has-text(/Top videos|Shorts/i)))
-
-! ==== Short videos (tab + inline carousel) ====
-! --- Tab in the horizontal nav bar ---
-google.*##a[href*="tbm=vids"]:has-text(/Short videos/i)
-google.*##a:has(span:has-text(/^Short videos$/i))
-google.*##+js(ra, a:has-text(/^Short videos$/i))
-! --- Carousel block in main results ---
-google.*##div[aria-label="Short videos"]
-google.*##div:has(h2:has-text(/Short videos/i))
-google.*##g-scrolling-carousel:has(h2:has-text(/Short videos/i))
-google.*##+js(ra, div[aria-label="Short videos"])
-google.*##+js(ra, div:has(h2:has-text(/Short videos/i)))
-
-! ==== Hide the “News” tab ====
+! ==== Google ====
 google.*##a[href*="tbm=nws"]
+google.*##a[href*="tbm=vids"]
+
+! ==== DuckDuckGo ====
