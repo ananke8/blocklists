@@ -1,0 +1,21 @@
+! Google Search Cleanup — iOS-safe (no scriptlets / no :has-text)
+
+! ==== Top stories / News ====
+google.*##div[aria-label="Top stories"]
+google.*##div[aria-label="In the news"]
+google.*##div[jscontroller*="m6wItb"][aria-label="Top stories"]
+
+! ==== “What people are saying” / Discussions / Perspectives ====
+google.*##div[aria-label="What people are saying"]
+google.*##div[aria-label="Perspectives"]
+
+! ==== Top videos / Shorts (blocks) ====
+google.*##div[aria-label="Top videos"]
+google.*##div[aria-label="Short videos"]
+
+! ==== Short videos (tab link and inline) ====
+! (Hide the tab link via href match — no :has-text)
+google.*##a[href*="tbm=vids"]  /* hides the “Short videos” tab if present */
+
+! ==== Hide the “News” tab ====
+google.*##a[href*="tbm=nws"]
