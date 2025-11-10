@@ -1,8 +1,0 @@
-! ==== Search Cleanup in Safari (AdGuard iOS) ====
-! Removes: News and Video Shorts tabs (as applicable) from Google and DuckDuckGo
-
-! ==== Google ====
-google.*##a[href*="tbm=nws"]
-google.*##a[href*="tbm=vids"]
-
-! ==== DuckDuckGo ====
