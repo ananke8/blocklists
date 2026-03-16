@@ -146,3 +146,4 @@ carsauce.com
 whichcar.com.au
 chasingcars.com.au
 goauto.com.au
+news.ycombinator.com
