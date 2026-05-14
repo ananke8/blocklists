@@ -147,3 +147,5 @@ chasingcars.com.au
 goauto.com.au
 news.ycombinator.com
 twz.com
+aph.gov.au
+minister.defence.gov.au
