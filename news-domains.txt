@@ -33,6 +33,7 @@ businessinsider.com
 cbsnews.com
 cnbc.com
 forbes.com
+forbes.com.au
 foxnews.com
 freebacon.com
 ft.com
@@ -62,7 +63,6 @@ wsj.com
 whitehouse.gov
 msn.com
 finance.yahoo.com
-forbes.com
 cbc.ca
 nbcnews.com
 independent.co.uk
