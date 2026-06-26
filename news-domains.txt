@@ -25,6 +25,7 @@ thewest.com.au
 watoday.com.au
 aljazeera.com
 apnews.com
+cbsnews.com
 archive.md
 bbc.com
 foxnews.com
@@ -503,5 +504,5 @@ afr.com
 wsj.com
 ft.com
 asia.nikkei.com
-ibtimes.com
+financeasia.com
 economist.com
