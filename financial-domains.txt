@@ -1,6 +1,5 @@
 bloomberg.com
 businessinsider.com
-cbsnews.com
 cnbc.com
 forbes.com
 forbes.com.au
@@ -10,7 +9,7 @@ zerohedge.com
 barrons.com
 investing.com
 moneyweek.com
-financeasia.com
+ibtimes.com
 fortune.com
 marketwatch.com
 foxbusiness.com
