@@ -403,19 +403,12 @@ financialpost.com
 zeebiz.com
 financialexpress.com
 dealbreaker.com
-thestreet.com
 indailysa.com.au
 economynext.com
 cityam.com
-econotimes.com
 rttnews.com
-tradingeconomics.com
 alternet.org
 economist.com
-tradingview.com
-fxempire.com
-fxstreet.com
-dailyforex.com
 chicago.suntimes.com
 dailystar.co.uk
 newstatesman.com
@@ -511,4 +504,3 @@ unz.com
 abc.net.au
 bigleaguepolitics.com
 aspenpublicradio.org
-smartcompany.com.au
