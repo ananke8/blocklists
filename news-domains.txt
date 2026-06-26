@@ -23,7 +23,6 @@ themercury.com.au
 thenewdaily.com.au
 thewest.com.au
 watoday.com.au
-afr.com
 aljazeera.com
 apnews.com
 archive.md
@@ -38,6 +37,7 @@ nypost.com
 nytimes.com
 pbs.org
 politico.com
+fastcompany.com
 reuters.com
 the-riotact.com
 theatlantic.com
@@ -51,8 +51,6 @@ usatoday.com
 usnews.com
 voanews.com
 washingtonpost.com
-wsj.com
-ft.com
 whitehouse.gov
 msn.com
 cbc.ca
@@ -90,7 +88,6 @@ chinatoday.com.cn
 english.www.gov.cn
 xinhuanet.com
 china.org.cn
-asia.nikkei.com
 channelnewsasia.com
 focustaiwan.tw
 chinanationalnews.com
@@ -130,7 +127,6 @@ wivb.com
 whdh.com
 news10.com
 vox.com
-ibtimes.com
 tmz.com
 breitbart.com
 dailykos.com
@@ -408,7 +404,6 @@ economynext.com
 cityam.com
 rttnews.com
 alternet.org
-economist.com
 chicago.suntimes.com
 dailystar.co.uk
 newstatesman.com
@@ -435,7 +430,6 @@ irishtimes.com
 independent.ie
 thejournal.ie
 mg.co.za
-fastcompany.com
 quillette.com
 currentaffairs.org
 tabletmag.com
@@ -505,3 +499,9 @@ abc.net.au
 bigleaguepolitics.com
 aspenpublicradio.org
 themandarin.com.au
+afr.com
+wsj.com
+ft.com
+asia.nikkei.com
+ibtimes.com
+economist.com
