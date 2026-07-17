@@ -7,7 +7,6 @@ finance.yahoo.com
 livemint.com
 zerohedge.com
 barrons.com
-investing.com
 moneyweek.com
 ibtimes.com
 fortune.com
