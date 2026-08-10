@@ -1,5 +1,6 @@
 7news.com.au
 9news.com.au
+nine.com.au
 abcnews.go.com
 adelaidenow.com.au
 brisbanetimes.com.au
